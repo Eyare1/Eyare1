@@ -10,6 +10,9 @@ Need someone to hit the ground running? Look no further! I'm prepared to start w
 
 From responsive designs to efficient backend development, I've got you covered. Your vision will be brought to life with clean, efficient code and a user-friendly interface.
 
+Here are some of the skills I excel in.
+✅ Html ✅ Css ✅ JavaScript ✅ Bootstrap ✅ WordPress   ✅ jQuery ✅ API ✅ PHP     ✅ MySQL ✅ Python ✅ Linux command line... and few more...
+
 I believe in open communication and collaboration. Your input is invaluable, and together we can create a website that not only meets but exceeds your expectations.
 
 Feel free to reach out so we can dive into the details.
